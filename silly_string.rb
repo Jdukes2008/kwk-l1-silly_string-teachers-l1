@@ -5,6 +5,7 @@ your_favorite_word = "sunkiss"
 
 puts "My favorite word is #{sunkiss}"
 
+
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
