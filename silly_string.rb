@@ -10,8 +10,8 @@ puts sunkiss.supercalifragilisticexpialidocious
 
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
 
-puts "MY FAVORITE WORD IS your_favorite_word#"
-puts "MY FAVORITE WORD IS SUNKISS#"
+puts "MY FAVORITE WORD IS your_favorite_word.upcase"
+
 
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
